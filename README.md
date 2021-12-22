@@ -1,4 +1,4 @@
-# Gaussian Elimination with partial pivoting
+# Gaussian Elimination without partial pivoting
 
 ## AIM:
 To write a program to find the Gaussian Elimination with partial pivoting of a matrix.
@@ -61,5 +61,5 @@ for i in range(n):
 
 
 ## Result:
-Thus the program to find the Gaussian Elimination with partial pivoting of a matrix is written and verified using python programming.
+Thus the program to find the Gaussian Elimination without partial pivoting of a matrix is written and verified using python programming.
 
